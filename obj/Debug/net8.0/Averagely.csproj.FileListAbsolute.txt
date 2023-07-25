@@ -1,0 +1,15 @@
+C:\Users\ASUS\.NET_Learning_new\Averagely\bin\Debug\net8.0\Averagely.exe
+C:\Users\ASUS\.NET_Learning_new\Averagely\bin\Debug\net8.0\Averagely.deps.json
+C:\Users\ASUS\.NET_Learning_new\Averagely\bin\Debug\net8.0\Averagely.runtimeconfig.json
+C:\Users\ASUS\.NET_Learning_new\Averagely\bin\Debug\net8.0\Averagely.dll
+C:\Users\ASUS\.NET_Learning_new\Averagely\bin\Debug\net8.0\Averagely.pdb
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.AssemblyInfoInputs.cache
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.AssemblyInfo.cs
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.sourcelink.json
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.dll
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\refint\Averagely.dll
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.pdb
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\Averagely.genruntimeconfig.cache
+C:\Users\ASUS\.NET_Learning_new\Averagely\obj\Debug\net8.0\ref\Averagely.dll

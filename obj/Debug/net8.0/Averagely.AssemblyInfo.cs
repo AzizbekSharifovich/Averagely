@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Averagely")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b3e918c50d256faa4552b19b66064a987184752")]
 [assembly: System.Reflection.AssemblyProductAttribute("Averagely")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Averagely")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
